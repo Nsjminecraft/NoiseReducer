@@ -1,0 +1,22 @@
+# Build artifacts
+desktop/build/
+app/build/
+.gradle/
+DerivedData/
+*.xcuserdata
+*.xcworkspace
+
+# Compiled
+*.o
+*.so
+*.dylib
+*.exe
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
